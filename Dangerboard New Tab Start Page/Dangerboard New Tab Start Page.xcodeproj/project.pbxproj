@@ -71,17 +71,17 @@
 		2065207329D8D8A900400359 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
 		2065207529D8D8A900400359 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2065207629D8D8A900400359 /* Dangerboard_New_Tab_Start_Page_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Dangerboard_New_Tab_Start_Page_Extension.entitlements; sourceTree = "<group>"; };
-		2065208129D8D8A900400359 /* 48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 48.png; path = "48.png"; sourceTree = "<group>"; };
-		2065208229D8D8A900400359 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = index.html; path = "index.html"; sourceTree = "<group>"; };
-		2065208329D8D8A900400359 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE; path = "LICENSE"; sourceTree = "<group>"; };
-		2065208429D8D8A900400359 /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; name = css; path = "css"; sourceTree = "<group>"; };
-		2065208529D8D8A900400359 /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; name = js; path = "js"; sourceTree = "<group>"; };
-		2065208629D8D8A900400359 /* 128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 128.png; path = "128.png"; sourceTree = "<group>"; };
-		2065208729D8D8A900400359 /* options.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = options.js; path = "options.js"; sourceTree = "<group>"; };
-		2065208829D8D8A900400359 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 16.png; path = "16.png"; sourceTree = "<group>"; };
-		2065208929D8D8A900400359 /* 32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 32.png; path = "32.png"; sourceTree = "<group>"; };
-		2065208A29D8D8A900400359 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "manifest.json"; sourceTree = "<group>"; };
-		2065208B29D8D8A900400359 /* options.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = options.html; path = "options.html"; sourceTree = "<group>"; };
+		2065208129D8D8A900400359 /* 48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 48.png; sourceTree = "<group>"; };
+		2065208229D8D8A900400359 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		2065208329D8D8A900400359 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		2065208429D8D8A900400359 /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; path = css; sourceTree = "<group>"; };
+		2065208529D8D8A900400359 /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; path = js; sourceTree = "<group>"; };
+		2065208629D8D8A900400359 /* 128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 128.png; sourceTree = "<group>"; };
+		2065208729D8D8A900400359 /* options.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = options.js; sourceTree = "<group>"; };
+		2065208829D8D8A900400359 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
+		2065208929D8D8A900400359 /* 32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 32.png; sourceTree = "<group>"; };
+		2065208A29D8D8A900400359 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
+		2065208B29D8D8A900400359 /* options.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = options.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -524,6 +524,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Dangerboard New Tab Start Page/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Dangerboard New Tab Start Page";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
@@ -561,6 +562,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Dangerboard New Tab Start Page/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Dangerboard New Tab Start Page";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
