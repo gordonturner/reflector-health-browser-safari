@@ -1,5 +1,5 @@
 {
-  "name": "Dangerboard New Tab Start Page",
+  "name": "Dangerboard Start Page",
   "description" : "When a new tab is created, this extension will load a page with Google search and Apple Rings",
   "version": "2.0",
   "manifest_version": 3,

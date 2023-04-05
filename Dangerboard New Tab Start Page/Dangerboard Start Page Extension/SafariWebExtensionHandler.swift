@@ -1,6 +1,6 @@
 //
 //  SafariWebExtensionHandler.swift
-//  Dangerboard New Tab Start Page Extension
+//  Dangerboard Start Page Extension
 //
 //  Created by Gordon Turner on 2023-04-01.
 //

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Dangerboard New Tab Start Page
+//  Dangerboard Start Page
 //
 //  Created by Gordon Turner on 2023-04-01.
 //
