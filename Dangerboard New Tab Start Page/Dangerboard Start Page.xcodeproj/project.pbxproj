@@ -66,7 +66,7 @@
 		2065206529D8D8A800400359 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2065206729D8D8A800400359 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2065206829D8D8A800400359 /* Dangerboard_Start_Page.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Dangerboard_Start_Page.entitlements; sourceTree = "<group>"; };
-		2065206929D8D8A800400359 /* Dangerboard Start_Page.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Dangerboard Start_Page.entitlements"; sourceTree = "<group>"; };
+		2065206929D8D8A800400359 /* Dangerboard Start Page.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Dangerboard Start Page.entitlements"; sourceTree = "<group>"; };
 		2065206E29D8D8A900400359 /* Dangerboard Start Page Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Dangerboard Start Page Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2065207329D8D8A900400359 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
 		2065207529D8D8A900400359 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -129,7 +129,7 @@
 				2065206529D8D8A800400359 /* Assets.xcassets */,
 				2065206729D8D8A800400359 /* Info.plist */,
 				2065206829D8D8A800400359 /* Dangerboard_Start_Page.entitlements */,
-				2065206929D8D8A800400359 /* Dangerboard Start_Page.entitlements */,
+				2065206929D8D8A800400359 /* Dangerboard Start Page.entitlements */,
 				2065205629D8D8A700400359 /* Resources */,
 			);
 			path = "Dangerboard Start Page";
