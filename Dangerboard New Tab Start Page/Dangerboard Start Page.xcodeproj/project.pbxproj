@@ -452,12 +452,13 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Dangerboard Start Page Extension/Dangerboard_Start_Page_Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = AAEG38WN8A;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Dangerboard Start Page Extension/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Dangerboard Start Page Extension";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -483,12 +484,13 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Dangerboard Start Page Extension/Dangerboard_Start_Page_Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = AAEG38WN8A;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Dangerboard Start Page Extension/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Dangerboard Start Page Extension";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -518,7 +520,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Dangerboard Start Page/Dangerboard Start Page.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = AAEG38WN8A;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -556,7 +558,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Dangerboard Start Page/Dangerboard Start Page.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = AAEG38WN8A;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
