@@ -9,7 +9,7 @@ import Cocoa
 import SafariServices
 import WebKit
 
-let extensionBundleIdentifier = "com.yourCompany.Dangerboard-New-Tab-Start-Page.Extension"
+let extensionBundleIdentifier = "com.gordonturner.Dangerboard-Start-Page.Extension"
 
 class ViewController: NSViewController, WKNavigationDelegate, WKScriptMessageHandler {
 
