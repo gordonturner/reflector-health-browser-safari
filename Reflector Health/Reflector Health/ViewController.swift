@@ -9,7 +9,7 @@ import Cocoa
 import SafariServices
 import WebKit
 
-let extensionBundleIdentifier = "com.gordonturner.Health-MacOS-Safari.Extension"
+let extensionBundleIdentifier = "com.gordonturner.Health-MacOS.Extension"
 
 class ViewController: NSViewController, WKNavigationDelegate, WKScriptMessageHandler {
 
