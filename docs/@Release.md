@@ -12,6 +12,10 @@
 10. In developer.apple.com, on Confirm Submission, click Submit to App Review
 10. Confirm that there is default data for XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 
+## 2024-08-09 Release 1.0
+Apple App Store:
+https://apps.apple.com/app/reflector-health/id6624315457
+
 ## 2023-10-11 Release 5.0
 Set version to 5.0, to match Chrome version
 Followed steps
